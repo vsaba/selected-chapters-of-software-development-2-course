@@ -6,4 +6,4 @@ hw02 - Custom local chat application
 hw03 - Complete custom web application (MVC pattern) built from scratch  
 hw04 - Basic web application using Apache tomcat  
 hw05 - Upgraded web application from hw04 with database access  
-
+hw06 - Web application which implements the login form  
